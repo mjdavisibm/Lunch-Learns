@@ -1,0 +1,4 @@
+declared-services:
+  pizza-watson-assistant-service:
+    label: assistant
+    plan: free
