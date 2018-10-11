@@ -1,4 +1,13 @@
 declared-services:
   pizza-watson-assistant-service:
-    label: assistant
+    label: conversation
     plan: free
+  pizza-STT-service:
+    label: speech_to_text
+    plan: lite
+  pizza-TTS-service:
+    label: text_to_speech
+    plan: lite
+  pizza-voice-agent-service:
+    label: VoiceAgent
+    plan: lite
