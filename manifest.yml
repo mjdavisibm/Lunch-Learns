@@ -10,4 +10,4 @@ declared-services:
     plan: lite
   pizza-voice-agent-service:
     label: VoiceAgent
-    plan: lite
+    plan: Lite
